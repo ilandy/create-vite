@@ -7,11 +7,7 @@ import { fileURLToPath } from 'url'
 import minimist from 'minimist'
 import prompts from 'prompts'
 import {
-  blue,
-  cyan,
   green,
-  lightRed,
-  magenta,
   red,
   reset,
   yellow
